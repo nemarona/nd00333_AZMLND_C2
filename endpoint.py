@@ -81,7 +81,7 @@ url = (
     "http://a6bedfb5-c7ea-4651-af9c-b529d46bb544.southcentralus.azurecontainer.io/score"
 )
 # Replace this with the primary/secondary key or AMLToken for the endpoint
-api_key = ""
+api_key = "rVes307hLV8XuEXEaiifYNvX337IsbC2"
 if not api_key:
     raise Exception("A key should be provided to invoke the endpoint")
 
